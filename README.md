@@ -1,6 +1,7 @@
 [![Github Badge](https://img.shields.io/badge/Profile-Github-lightgrey)](https://github.com/YuriSiman)
 [![Linkedin Badge](https://img.shields.io/badge/Social-Linkedin-blue)](https://www.linkedin.com/in/yurisiman/)
 [![Gmail Badge](https://img.shields.io/badge/Contact-E--mail-red)](mailto:yurisimannogueira@gmail.com)
+[![Curriculum Badge](https://img.shields.io/badge/Curriculum-Experience-brightgreen)](http://yurisiman.surge.sh/)
 
 ### Code your life ⚡
 
