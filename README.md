@@ -14,7 +14,10 @@ Você encontrará aqui projetos com fins didáticos em C, Java e aplicações ma
 
 Aprendendo sempre novas tecnologias! :computer: Sou estudante de Ciência da Computação na [FUMEC](http://www.fumec.br/)  
 
+---
+
 ### :globe_with_meridians: Links
+
 
 [![Github](https://img.shields.io/badge/github-profile-%237159c1?style=for-the-badge&logo=github)](https://github.com/YuriSiman)  
 [![Linkedin](https://img.shields.io/badge/linkedin-social-%230077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yurisiman/)  
