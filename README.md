@@ -8,7 +8,7 @@ Trabalho na [Vers Contabilidade](https://www.verscontabilidade.com.br/) com ASP.
 
 ### :open_file_folder: Repositórios
 
-Você encontrará aqui projetos com fins didáticos em C, Java e aplicações maiores em C#, HTML, CSS e JavaScript  
+Você encontrará aqui projetos de pequeno, médio e grande porte em ASP.NET Core como Web API's para Altenticação de usuários utilizando Identity, CRUD completo com Entity Framework Core, projetos com arquiteturas REST distribuídas com integrações entra API's e Web MVC. Além disso, também possuo pequenas implementações de Estrutura de Dados na linguagem C, implementações em Java. 
 
 ### :mortar_board: Estudante
 
