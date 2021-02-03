@@ -4,11 +4,11 @@ Olá, me chamo Yuri Siman! Sou apaixonado por desenvolvimento e tecnologia. Seja
 
 ### :briefcase: Trabalho 
 
-Trabalho na [Vers Contabilidade](https://www.vers.com.br/) como estagiário de tecnologia, atuo como desenvolvedor ASP.NET Core e C# :computer: criando aplicações para integração de sistemas com Web API's e solucionando problemas com diversas tecnologias. Trabalho com tecnologias Microsoft, de plataformas para computação em nuvem como Azure à plataformas devops para integração e entrega contínua como AzureDevOps. Utilizamos metodologias ágeis para uma maior produtividade e foco em nossos objetivos.
+Trabalho na [Vers Contabilidade](https://www.vers.com.br/) como estagiário de tecnologia, atuo como desenvolvedor ASP.NET Core e C# :computer: criando aplicações para integração de sistemas com Web API's e solucionando problemas com diversas tecnologias. Trabalho com tecnologias Microsoft, de plataformas para computação em nuvem como Azure à plataformas devops para integração e entrega contínua como Azure DevOps. Utilizamos metodologias ágeis para uma maior produtividade e foco em nossos objetivos.
 
 ### :open_file_folder: Repositórios
 
-Você encontrará aqui projetos de pequeno, médio e grande porte em ASP.NET Core como Web API's para Altenticação de usuários utilizando Identity, CRUD completo com Entity Framework Core, projetos com arquiteturas REST distribuídas com integrações entra API's e Web MVC. Além disso, também possuo pequenas implementações de Estrutura de Dados na linguagem C e implementações em Java. 
+Você encontrará aqui projetos de pequeno, médio e grande porte em ASP.NET Core como Web API's para autenticação de usuários utilizando Identity, CRUD completo com o ORM Entity Framework Core utilizando abordagem Code First, projetos com arquiteturas REST distribuídas com integrações entra API's e Web MVC. Além disso, também possuo pequenas implementações de Estrutura de Dados na linguagem C com exercícios resolvidos e implementações em Java.
 
 ### :mortar_board: Estudante
 
