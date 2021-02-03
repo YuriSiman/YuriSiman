@@ -1,14 +1,14 @@
-## Code your life
+## CODE YOUR LIFE
 
 Olá, me chamo Yuri Siman! Sou apaixonado por desenvolvimento e tecnologia. Seja muito bem-vindo ao meu GitHub! :octocat:    
 
 ### :briefcase: Trabalho 
 
-Trabalho na [Vers Contabilidade](https://www.verscontabilidade.com.br/) com ASP.NET Core e C# :computer: Criando aplicações Web e APIs para resolver problemas
+Trabalho na [Vers Contabilidade](https://www.vers.com.br/) como estagiário de tecnologia, atuo como desenvolvedor ASP.NET Core e C# :computer: criando aplicações para integração de sistemas com Web API's e solucionando problemas com diversas tecnologias. Trabalho com tecnologias Microsoft, de plataformas para computação em nuvem como Azure à plataformas devops para integração e entrega contínua como AzureDevOps. Utilizamos metodologias ágeis para uma maior produtividade e foco em nossos objetivos.
 
 ### :open_file_folder: Repositórios
 
-Você encontrará aqui projetos de pequeno, médio e grande porte em ASP.NET Core como Web API's para Altenticação de usuários utilizando Identity, CRUD completo com Entity Framework Core, projetos com arquiteturas REST distribuídas com integrações entra API's e Web MVC. Além disso, também possuo pequenas implementações de Estrutura de Dados na linguagem C, implementações em Java. 
+Você encontrará aqui projetos de pequeno, médio e grande porte em ASP.NET Core como Web API's para Altenticação de usuários utilizando Identity, CRUD completo com Entity Framework Core, projetos com arquiteturas REST distribuídas com integrações entra API's e Web MVC. Além disso, também possuo pequenas implementações de Estrutura de Dados na linguagem C e implementações em Java. 
 
 ### :mortar_board: Estudante
 
@@ -23,4 +23,4 @@ Aprendendo sempre novas tecnologias! :computer: Sou estudante de Ciência da Com
 [![Linkedin](https://img.shields.io/badge/linkedin-social-%230077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yurisiman/)  
 [![Gmail](https://img.shields.io/badge/gmail-contact-%23D14836?style=for-the-badge&logo=gmail)](mailto:yurisimannogueira@gmail.com)  
 [![Curriculum](https://img.shields.io/badge/site-curriculum-%23563D7C?style=for-the-badge&logo=bootstrap)](http://yurisiman.surge.sh/)  
-[![Vers](https://img.shields.io/badge/vers%20contabilidade-job-%233776AB?style=for-the-badge&logo=v)](https://www.verscontabilidade.com.br/)  
+[![Vers](https://img.shields.io/badge/vers%20contabilidade-job-%233776AB?style=for-the-badge&logo=v)](https://www.vers.com.br/)  
