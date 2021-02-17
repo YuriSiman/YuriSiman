@@ -21,6 +21,6 @@ Aprendendo sempre novas tecnologias! :computer: Sou estudante de Ciência da Com
 
 [![Github](https://img.shields.io/badge/github-profile-%237159c1?style=for-the-badge&logo=github)](https://github.com/YuriSiman)  
 [![Linkedin](https://img.shields.io/badge/linkedin-social-%230077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yurisiman/)  
-[![Gmail](https://img.shields.io/badge/gmail-contact-%23D14836?style=for-the-badge&logo=gmail)](mailto:yurisimannogueira@gmail.com)  
+[![Email](https://img.shields.io/badge/email-contact-%23D14836?style=for-the-badge&logo=gmail)](mailto:contato@yurisiman.com.br)  
 [![Curriculum](https://img.shields.io/badge/site-curriculum-%23563D7C?style=for-the-badge&logo=bootstrap)](https://yurisiman.com.br)  
 [![Vers](https://img.shields.io/badge/vers%20contabilidade-job-%233776AB?style=for-the-badge&logo=v)](https://www.vers.com.br/)  
