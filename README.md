@@ -4,7 +4,9 @@ Olá, me chamo Yuri Siman! Sou apaixonado por desenvolvimento e tecnologia. Seja
 
 ### :briefcase: Trabalho 
 
-Trabalho na [Vers Contabilidade](https://www.vers.com.br/) como estagiário de tecnologia, atuo como desenvolvedor ASP.NET Core e C# :computer: criando aplicações para integração de sistemas com Web API's e solucionando problemas com diversas tecnologias. Trabalho com tecnologias Microsoft, de plataformas para computação em nuvem como Azure à plataformas devops para integração e entrega contínua como Azure DevOps. Utilizamos metodologias ágeis para uma maior produtividade e foco em nossos objetivos.
+Atualmente trabalho na [Ramo Sistemas Digitais](https://ramo.com.br/) como desenvolvedor júnior, atuo na criação de Add-Ons em C# para o ERP SAP Business One.  
+
+Trabalhei na [Vers Contabilidade](https://www.vers.com.br/) como estagiário de tecnologia da informação, atuando como desenvolvedor ASP.NET Core e C# :computer: criando aplicações para integração de sistemas com Web API's e solucionando problemas com diversas tecnologias. Experiência com tecnologias Microsoft, de plataformas para computação em nuvem como Azure à plataformas devops para integração e entrega contínua como Azure DevOps. Utilização de metodologias ágeis para uma maior produtividade e foco nos objetivos.
 
 ### :open_file_folder: Repositórios
 
