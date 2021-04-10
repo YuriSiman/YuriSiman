@@ -4,13 +4,13 @@ Olá, me chamo Yuri Siman! Sou apaixonado por desenvolvimento e tecnologia. Seja
 
 ### :briefcase: Trabalho 
 
-Atualmente trabalho na [Ramo Sistemas Digitais](https://ramo.com.br/) como desenvolvedor júnior, atuo na criação de Add-Ons em C# para o ERP SAP Business One.  
+Atualmente trabalho na [HMB Tecnologia](http://hmbtecnologia.com.br/) como desenvolvedor .NET júnior, atuando na sustentação de Sistemas Call Plus CRM de grande porte.   
 
-Trabalhei na [Vers Contabilidade](https://www.vers.com.br/) como estagiário de tecnologia da informação, atuando como desenvolvedor ASP.NET Core e C# :computer: criando aplicações para integração de sistemas com Web API's e solucionando problemas com diversas tecnologias. Experiência com tecnologias Microsoft, de plataformas para computação em nuvem como Azure à plataformas devops para integração e entrega contínua como Azure DevOps. Utilização de metodologias ágeis para uma maior produtividade e foco nos objetivos.
+Trabalhei na [Vers Contabilidade](https://www.vers.com.br/) atuando como desenvolvedor ASP.NET Core e C# :computer: criando aplicações para integração de sistemas com Web API's e solucionando problemas com diversas tecnologias. Experiência com tecnologias Microsoft, de plataformas para computação em nuvem como Azure à plataformas devops para integração e entrega contínua como Azure DevOps. Utilização de metodologias ágeis para uma maior produtividade e foco nos objetivos.
 
 ### :open_file_folder: Repositórios
 
-Você encontrará aqui projetos de pequeno, médio e grande porte em ASP.NET Core como Web API's para autenticação de usuários utilizando Identity, CRUD completo com o ORM Entity Framework Core utilizando abordagem Code First, projetos com arquiteturas REST distribuídas com integrações entra API's e Web MVC. Além disso, também possuo pequenas implementações de Estrutura de Dados na linguagem C com exercícios resolvidos e implementações em Java.
+Você encontrará aqui projetos de pequeno, médio e grande porte em ASP.NET Core como páginas Web MVC em boas práticas de programação, Web API's para autenticação de usuários utilizando Identity, CRUD completo com o ORM Entity Framework Core utilizando abordagem Code First, utilização de Migrations, projetos com arquiteturas REST distribuídas com integrações entra API's e Web MVC. Além disso, também possuo pequenas implementações de Estrutura de Dados na linguagem C com exercícios resolvidos e implementações em Java.
 
 ### :mortar_board: Estudante
 
@@ -25,4 +25,4 @@ Aprendendo sempre novas tecnologias! :computer: Sou estudante de Ciência da Com
 [![Linkedin](https://img.shields.io/badge/linkedin-social-%230077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yurisiman/)  
 [![Email](https://img.shields.io/badge/email-contact-%23D14836?style=for-the-badge&logo=gmail)](mailto:contato@yurisiman.com.br)  
 [![Curriculum](https://img.shields.io/badge/site-curriculum-%23563D7C?style=for-the-badge&logo=bootstrap)](https://yurisiman.com.br)  
-[![Ramo](https://img.shields.io/badge/ramo-job-%233776AB?style=for-the-badge&logo=v)](https://ramo.com.br/)  
+[![HMB Tecnologia](https://img.shields.io/badge/hmb-job-%233776AB?style=for-the-badge&logo=v)](http://hmbtecnologia.com.br/)  
