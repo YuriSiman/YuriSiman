@@ -4,7 +4,7 @@ Olá, me chamo Yuri Siman! Sou apaixonado por desenvolvimento e tecnologia. Seja
 
 ### :briefcase: Trabalho 
 
-Atualmente trabalho na [HMB Tecnologia](http://hmbtecnologia.com.br/) como desenvolvedor .NET júnior, atuando na sustentação de Sistemas Call Plus CRM de grande porte.   
+Atualmente trabalho na [TOTVS](https://www.totvs.com/) como Analista de Desenvolvimento de Software.  
 
 Trabalhei na [Vers Contabilidade](https://www.vers.com.br/) atuando como desenvolvedor ASP.NET Core e C# :computer: criando aplicações para integração de sistemas com Web API's e solucionando problemas com diversas tecnologias. Experiência com tecnologias Microsoft, de plataformas para computação em nuvem como Azure à plataformas devops para integração e entrega contínua como Azure DevOps. Utilização de metodologias ágeis para uma maior produtividade e foco nos objetivos.
 
@@ -25,4 +25,4 @@ Aprendendo sempre novas tecnologias! :computer: Sou estudante de Ciência da Com
 [![Linkedin](https://img.shields.io/badge/linkedin-social-%230077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yurisiman/)  
 [![Email](https://img.shields.io/badge/email-contact-%23D14836?style=for-the-badge&logo=gmail)](mailto:contato@yurisiman.com.br)  
 [![Curriculum](https://img.shields.io/badge/site-curriculum-%23563D7C?style=for-the-badge&logo=bootstrap)](https://yurisiman.com.br)  
-[![HMB Tecnologia](https://img.shields.io/badge/hmb-job-%233776AB?style=for-the-badge&logo=v)](http://hmbtecnologia.com.br/)  
+[![TOTVS](https://img.shields.io/badge/hmb-job-%233776AB?style=for-the-badge&logo=v)](https://www.totvs.com/)  
