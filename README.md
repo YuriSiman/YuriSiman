@@ -25,4 +25,4 @@ Aprendendo sempre novas tecnologias! :computer: Sou estudante de Ciência da Com
 [![Linkedin](https://img.shields.io/badge/linkedin-social-%230077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yurisiman/)  
 [![Email](https://img.shields.io/badge/email-contact-%23D14836?style=for-the-badge&logo=gmail)](mailto:contato@yurisiman.com.br)  
 [![Curriculum](https://img.shields.io/badge/site-curriculum-%23563D7C?style=for-the-badge&logo=bootstrap)](https://yurisiman.com.br)  
-[![TOTVS](https://img.shields.io/badge/hmb-job-%233776AB?style=for-the-badge&logo=v)](https://www.totvs.com/)  
+[![TOTVS](https://img.shields.io/badge/totvs-job-%233776AB?style=for-the-badge&logo=v)](https://www.totvs.com/)  
