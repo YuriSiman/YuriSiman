@@ -1,12 +1,16 @@
 ## Olá, me chamo Yuri Siman!   
 ### Apaixonado por desenvolvimento e tecnologia.
 <br>
+
+<!-- 
 <div align="center">
   <a href="https://github.com/YuriSiman">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yurisiman&show_icons=true&theme=dark&border_color=E0A80D&icon_color=E0A80D&title_color=E0A80D" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurisiman&layout=compact&theme=dark&border_color=E0A80D&title_color=E0A80D" />
   </a>
-</div>
+</div> 
+-->
+
 <br>
 <div align="center" style="display: inline_block">
   <img align="center" alt="Yuri-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
